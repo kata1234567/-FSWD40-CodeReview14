@@ -3,8 +3,8 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Erstellungszeit: 20. Jul 2018 um 23:20
--- Server-Version: 10.1.33-MariaDB
+-- Erstellungszeit: 21. Jul 2018 um 15:00
+-- Server-Version: 10.1.33-KathrinDB
 -- PHP-Version: 7.2.6
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
